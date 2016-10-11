@@ -1,5 +1,5 @@
 #Greenfoot properties
-#Thu Oct 06 10:29:46 CDT 2016
+#Tue Oct 11 10:49:07 CDT 2016
 target4.type=ClassTarget
 dependency3.from=Crab
 target3.height=50
@@ -27,9 +27,9 @@ target1.width=80
 editor.fx.0.y=0
 editor.fx.0.x=0
 target2.typeParameters=
-class.Lobster.superclass=greenfoot.Actor
 class.CrabWorld.image=sand.jpg
 dependency3.to=CrabWorld
+class.Lobster.superclass=greenfoot.Actor
 target3.showInterface=false
 class.Crab.image=crab.png
 target1.showInterface=false
