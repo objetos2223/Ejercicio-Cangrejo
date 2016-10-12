@@ -3,7 +3,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * Write a description of class Spider here.
  * 
- * @author Eloy
+ * @author Diego
  * @version (a version number or a date)
  */
 public class Spider extends Actor
@@ -17,10 +17,10 @@ public class Spider extends Actor
         // Add your action code here.
     }    
     
-    public void metodo2()
+    public void otrometodo()
     {
-        System.out.println("Hola mundo");
+        if (3 < 4)  {
+            System.out.println("otrometodo");
+        }
     }
-    
-    
 }
