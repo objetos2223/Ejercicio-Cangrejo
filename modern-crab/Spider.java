@@ -3,7 +3,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * Write a description of class Spider here.
  * 
- * @author (your name) 
+ * @author Eloy
  * @version (a version number or a date)
  */
 public class Spider extends Actor
@@ -16,4 +16,11 @@ public class Spider extends Actor
     {
         // Add your action code here.
     }    
+    
+    public void metodo2()
+    {
+        System.out.println("Hola mundo");
+    }
+    
+    
 }
