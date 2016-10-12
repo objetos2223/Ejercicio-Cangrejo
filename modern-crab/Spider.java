@@ -16,4 +16,8 @@ public class Spider extends Actor
     {
         // Add your action code here.
     }    
+    
+    public void metodo2()
+    {
+    }
 }
