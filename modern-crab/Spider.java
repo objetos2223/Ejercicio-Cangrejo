@@ -19,5 +19,8 @@ public class Spider extends Actor
     
     public void metodo2()
     {
+        System.out.println("Hola mundo");
     }
+    
+    
 }
